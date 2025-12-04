@@ -1,5 +1,5 @@
 # Node.js Deployment on AWS Elastic Beanstalk  
-A simple “Hello World” Node.js web application deployed using **Elastic Beanstalk’s ZIP upload method** (no Docker, no S3 pre-upload, no CLI). This project demonstrates the easiest and cleanest workflow for deploying and managing a Node.js app on AWS.
+A simple Node.js web application deployed using **Elastic Beanstalk’s ZIP upload method**. This project demonstrates the easiest and cleanest workflow for deploying and managing a Node.js app on AWS.
 
 ---
 
