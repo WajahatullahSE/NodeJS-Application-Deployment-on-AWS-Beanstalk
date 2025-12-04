@@ -19,6 +19,8 @@ A simple “Hello World” Node.js web application deployed using **Elastic Bean
 - Basic understanding of Express.js and Node.js app structure
 
 ---
+## Architecture Diagram
+![Diagram](arch-diagram.png)
 
 ## What This Project Does
 This project deploys a minimal Node.js “Hello World” App using the **Elastic Beanstalk Node.js platform**. It allows you to:
