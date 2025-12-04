@@ -13,8 +13,8 @@ A simple “Hello World” Node.js web application deployed using **Elastic Bean
 - Node.js application packaged as a ZIP containing only the required files:
   - `index.js`
   - `package.json`
-  - `package-lock.json` (optional but recommended)
-  - `public/` directory (if used)
+  - `package-lock.json` 
+  - `public/` directory 
   - No `node_modules` directory (Elastic Beanstalk installs dependencies automatically)
 - Basic understanding of Express.js and Node.js app structure
 
